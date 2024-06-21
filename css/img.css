@@ -1,0 +1,24 @@
+*{
+    padding: 0;
+    margin: 0;
+}
+.mar{
+    background-image:url(/css/anime-style-cozy-home-interior-with-furnishings.jpg);
+    background-position: center;
+    background-size: cover;
+    background-attachment:fixed;
+    height: 100vh;
+    background-repeat: no-repeat;
+    color:white;
+}
+.element{
+    display: inline;
+    padding: 10px;
+
+}
+
+
+.var{
+    color: brown;
+
+}
