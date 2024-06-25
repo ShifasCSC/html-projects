@@ -1,0 +1,50 @@
+
+
+@import url('https://fonts.googleapis.com/css2?family=Playwrite+NZ:wght@100..400&display=swap');
+
+/* font-family: "Playwrite NZ", cursive; */
+h1{
+font-family: "Playwrite NZ", cursive ;
+
+}
+.material-symbols-outlined {
+    font-family: 'Material Symbols Outlined';
+    font-weight: normal;
+    font-style: normal;
+    font-size: 60px;
+    line-height: 1;
+    color: blue;
+    letter-spacing: normal;
+    text-transform: none;
+    display: inline-block;
+    white-space: nowrap;
+    word-wrap: normal;
+    direction: ltr;
+    -webkit-font-smoothing: antialiased;
+}
+
+div{
+    text-align: 20px;
+     margin-top: 40px ;
+}
+button{
+    border: hidden;
+    border-radius: 10px;
+    background-color: brown;
+    color: yellow;
+    font-size:xx-large;
+    box-shadow: 0px 30px 30px rgba(247, 35, 7, 0.551) ;
+    padding: 10px 30px;
+    transition-delay: o.1s;
+    
+
+}
+button:hover{
+    background-color: blue;
+    border-radius: 40px;
+    box-shadow: 30px 30px 30px yellow;
+    scale: 1.5;
+    transform: rotate(40deg);
+    /* transform: translateX(-30deg); */
+
+}
